@@ -2,7 +2,9 @@
 ## **ExeHidder is an automatic python script that takes a .exe file "hides" it and creates a corresponding copy of it that look like normal non executable files.**
 
 ## Note
-ExeHidder is a fun little project I worked on for fun, it's mostly useless yet still have some uses on non tech savvy people
+ExeHidder is a fun little project I worked on for fun, it's mostly useless yet still have some uses on non tech savvy people.
+kinda sucks but even after many many tries to make the icon of the shortcut work, I couldn't find a solution as windows don't let shortcuts have relative paths to icons,
+I even tried to create a C++ program that will embedd the icon into the scr file, but no success there as well-- will edit when succeeds 
 
 ## What it does & How it works
 Basically the script creates a zip file that contains a shortcut file that links to the .exe file the user provided, the real exe file is supposed to be a hidden file but winrar,7zip and so on show these files,
