@@ -16,3 +16,4 @@ Winrar and 7zip will show the .lnk file but nowadays windows 11 comes with its o
 The user gives the script these inputs: path to .exe file, path to where the zip should be created, the fake extension of the file (could be whatever as it doesn't really counts as an extension but as text), a path for an icon (optional) and name of zip.
 
 ![My Image](images/demonstration.png)
+![My Image](images/image.png)
